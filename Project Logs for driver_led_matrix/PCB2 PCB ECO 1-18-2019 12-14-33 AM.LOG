@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=DSRED3V3 Pin=data1-6
+Added Pin To Net: NetName=DSGR3V3 Pin=data1-7
+Added Pin To Net: NetName=GND Pin=data1-8

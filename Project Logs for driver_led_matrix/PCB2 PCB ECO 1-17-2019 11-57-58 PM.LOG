@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=data1-1
+Removed Pin From Net: NetName=DSRED3V3 Pin=data1-2
+Removed Pin From Net: NetName=DSGR3V3 Pin=data1-3
+Removed Pin From Net: NetName=LATREDGREEN3V3 Pin=data1-4
+Removed Pin From Net: NetName=CLKREDGREEN3V3 Pin=data1-5
+Removed Pin From Net: NetName=LATSCAN3V3 Pin=data1-6
+Removed Pin From Net: NetName=CLKSCAN3V3 Pin=data1-7
+Removed Pin From Net: NetName=DSSCAN3V3 Pin=data1-8
+Added Pin To Net: NetName=LATSCAN3V3 Pin=data1-1
+Added Pin To Net: NetName=CLKSCAN3V3 Pin=data1-2
+Added Pin To Net: NetName=DSSCAN3V3 Pin=data1-3

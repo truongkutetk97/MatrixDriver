@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=BC9 NewDesignator=BC12
+Change Component Designator: OldDesignator=BC9 NewDesignator=BC13
+Change Component Designator: OldDesignator=BC9 NewDesignator=BC14
+Change Component Designator: OldDesignator=BC9 NewDesignator=BC15
+Change Component Designator: OldDesignator=R9 NewDesignator=R15
+Change Component Designator: OldDesignator=R9 NewDesignator=R16
+Change Component Designator: OldDesignator=R9 NewDesignator=R17
+Change Component Designator: OldDesignator=R9 NewDesignator=R18
+Change Component Designator: OldDesignator=R12 NewDesignator=R19
+Change Component Designator: OldDesignator=R12 NewDesignator=R20
+Change Component Designator: OldDesignator=R12 NewDesignator=R21
+Change Component Designator: OldDesignator=R12 NewDesignator=R22
+Change Net Name : Old Net Name=NetBC9_3 New Net Name=NetBC13_3
+Added Pin To Net: NetName=NetBC9_3 Pin=BC9-3
+Added Pin To Net: NetName=NetBC9_3 Pin=R12-1
+Added Net: Name=NetBC9_3
+Added Pin To Net: NetName=NetBC12_3 Pin=BC12-3
+Added Pin To Net: NetName=NetBC12_3 Pin=R19-1
+Added Net: Name=NetBC12_3
+Added Pin To Net: NetName=NetBC14_3 Pin=BC14-3
+Added Pin To Net: NetName=NetBC14_3 Pin=R21-1
+Added Net: Name=NetBC14_3
+Added Pin To Net: NetName=NetBC15_3 Pin=BC15-3
+Added Pin To Net: NetName=NetBC15_3 Pin=R22-1
+Added Net: Name=NetBC15_3
+Added Member To Class: ClassName=Sheet1 Member=Component BC12 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component BC13 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component BC14 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component BC15 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component R15 680
+Added Member To Class: ClassName=Sheet1 Member=Component R16 680
+Added Member To Class: ClassName=Sheet1 Member=Component R17 680
+Added Member To Class: ClassName=Sheet1 Member=Component R18 680
+Added Member To Class: ClassName=Sheet1 Member=Component R19 680
+Added Member To Class: ClassName=Sheet1 Member=Component R20 680
+Added Member To Class: ClassName=Sheet1 Member=Component R21 680
+Added Member To Class: ClassName=Sheet1 Member=Component R22 680

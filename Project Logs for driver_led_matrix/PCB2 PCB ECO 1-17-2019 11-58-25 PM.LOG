@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LATSCAN3V3 Pin=data1-1
+Removed Pin From Net: NetName=CLKSCAN3V3 Pin=data1-2
+Removed Pin From Net: NetName=DSSCAN3V3 Pin=data1-3
+Added Pin To Net: NetName=DSSCAN3V3 Pin=data1-1
+Added Pin To Net: NetName=LATSCAN3V3 Pin=data1-2
+Added Pin To Net: NetName=CLKSCAN3V3 Pin=data1-3

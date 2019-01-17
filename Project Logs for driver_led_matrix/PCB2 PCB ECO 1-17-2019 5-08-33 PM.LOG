@@ -1,0 +1,93 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Added Component: Designator=BC9(SOT23B)
+Added Component: Designator=BC9(SOT23B)
+Added Component: Designator=BC9(SOT23B)
+Added Component: Designator=BC9(SOT23B)
+Added Component: Designator=BC9(SOT23B)
+Added Component: Designator=BC10(SOT23B)
+Added Component: Designator=BC11(SOT23B)
+Added Component: Designator=R9(SM-RES-1206)
+Added Component: Designator=R9(SM-RES-1206)
+Added Component: Designator=R9(SM-RES-1206)
+Added Component: Designator=R9(SM-RES-1206)
+Added Component: Designator=R9(SM-RES-1206)
+Added Component: Designator=R10(SM-RES-1206)
+Added Component: Designator=R11(SM-RES-1206)
+Added Component: Designator=R12(SM-RES-1206)
+Added Component: Designator=R12(SM-RES-1206)
+Added Component: Designator=R12(SM-RES-1206)
+Added Component: Designator=R12(SM-RES-1206)
+Added Component: Designator=R12(SM-RES-1206)
+Added Component: Designator=R13(SM-RES-1206)
+Added Component: Designator=R14(SM-RES-1206)
+Added Pin To Net: NetName=GND Pin=BC9-2
+Added Pin To Net: NetName=GND Pin=BC9-2
+Added Pin To Net: NetName=GND Pin=BC9-2
+Added Pin To Net: NetName=GND Pin=BC9-2
+Added Pin To Net: NetName=GND Pin=BC9-2
+Added Pin To Net: NetName=GND Pin=BC10-2
+Added Pin To Net: NetName=GND Pin=BC11-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Pin To Net: NetName=5V Pin=R11-2
+Added Pin To Net: NetName=CLKREDGREEN3V3 Pin=R12-2
+Added Net: Name=CLKREDGREEN3V3
+Added Pin To Net: NetName=CLKREDGREEN Pin=BC9-1
+Added Pin To Net: NetName=CLKREDGREEN Pin=R9-1
+Added Net: Name=CLKREDGREEN
+Added Pin To Net: NetName=CLKSCAN3V3 Pin=R13-2
+Added Net: Name=CLKSCAN3V3
+Added Pin To Net: NetName=CLKSCAN Pin=BC10-1
+Added Pin To Net: NetName=CLKSCAN Pin=IC1-11
+Added Pin To Net: NetName=CLKSCAN Pin=R10-1
+Added Net: Name=CLKSCAN
+Added Pin To Net: NetName=DSGR3V3 Pin=R12-2
+Added Net: Name=DSGR3V3
+Added Pin To Net: NetName=DSGR Pin=BC9-1
+Added Pin To Net: NetName=DSGR Pin=R9-1
+Added Net: Name=DSGR
+Added Pin To Net: NetName=DSRED3V3 Pin=R12-2
+Added Net: Name=DSRED3V3
+Added Pin To Net: NetName=DSRED Pin=BC9-1
+Added Pin To Net: NetName=DSRED Pin=R9-1
+Added Net: Name=DSRED
+Added Pin To Net: NetName=DSSCAN3V3 Pin=R14-2
+Added Net: Name=DSSCAN3V3
+Added Pin To Net: NetName=DSSCAN Pin=BC11-1
+Added Pin To Net: NetName=DSSCAN Pin=IC1-14
+Added Pin To Net: NetName=DSSCAN Pin=R11-1
+Added Net: Name=DSSCAN
+Added Pin To Net: NetName=LATREDGREEN3V3 Pin=R12-2
+Added Net: Name=LATREDGREEN3V3
+Added Pin To Net: NetName=LATREDGREEN Pin=BC9-1
+Added Pin To Net: NetName=LATREDGREEN Pin=R9-1
+Added Net: Name=LATREDGREEN
+Added Pin To Net: NetName=LATSCAN3V3 Pin=R12-2
+Added Net: Name=LATSCAN3V3
+Added Pin To Net: NetName=LATSCAN Pin=BC9-1
+Added Pin To Net: NetName=LATSCAN Pin=IC1-12
+Added Pin To Net: NetName=LATSCAN Pin=R9-1
+Added Net: Name=LATSCAN
+Added Pin To Net: NetName=NetBC9_3 Pin=BC9-3
+Added Pin To Net: NetName=NetBC9_3 Pin=R12-1
+Added Net: Name=NetBC9_3
+Added Pin To Net: NetName=NetBC10_3 Pin=BC10-3
+Added Pin To Net: NetName=NetBC10_3 Pin=R13-1
+Added Net: Name=NetBC10_3
+Added Pin To Net: NetName=NetBC11_3 Pin=BC11-3
+Added Pin To Net: NetName=NetBC11_3 Pin=R14-1
+Added Net: Name=NetBC11_3
+Added Member To Class: ClassName=Sheet1 Member=Component BC9 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component BC10 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component BC11 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component R9 680
+Added Member To Class: ClassName=Sheet1 Member=Component R10 680
+Added Member To Class: ClassName=Sheet1 Member=Component R11 680
+Added Member To Class: ClassName=Sheet1 Member=Component R12 680
+Added Member To Class: ClassName=Sheet1 Member=Component R13 680
+Added Member To Class: ClassName=Sheet1 Member=Component R14 680

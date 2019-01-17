@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=333
+Change Component Designator: OldDesignator=C? NewDesignator=1
+Change Component Designator: OldDesignator=C? NewDesignator=22
+Change Component Designator: OldDesignator=C? NewDesignator=43
+Change Component Designator: OldDesignator=C? NewDesignator=444
+Change Component Designator: OldDesignator=C? NewDesignator=455
+Change Net Name : Old Net Name=Net1_3 New Net Name=Net1_2
+Added Member To Class: ClassName=Sheet1 Member=Component 43 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component 444 100pF
+Added Member To Class: ClassName=Sheet1 Member=Component 455 100pF
