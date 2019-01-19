@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=ccccxc NewDesignator=13123132
+Change Net Name : Old Net Name=NetBC8_3 New Net Name=Net13123132_1
+Added Pin To Net: NetName=Net13123132_2 Pin=13123132-2
+Added Pin To Net: NetName=Net13123132_2 Pin=www-1
+Added Net: Name=Net13123132_2
+Added Member To Class: ClassName=Sheet1 Member=Component 13123132 Res

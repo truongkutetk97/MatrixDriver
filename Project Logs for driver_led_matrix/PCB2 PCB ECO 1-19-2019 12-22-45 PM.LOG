@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=bat1-1
+Removed Pin From Net: NetName=POWER Pin=bat1-2
+Removed Member From Class: ClassName=Sheet1 Member=bat1
+Added Component: Designator=dcd(JP2)
+Added Pin To Net: NetName=POWER Pin=dcd-1
+Added Pin To Net: NetName=GND Pin=dcd-2
+Added Member To Class: ClassName=Sheet1 Member=Component dcd Jumper 2

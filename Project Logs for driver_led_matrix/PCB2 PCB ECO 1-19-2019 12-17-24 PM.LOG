@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=INPUT8 Pin=asdascR10-1
+Removed Pin From Net: NetName=INPUT7 Pin=asdcs-1
+Removed Pin From Net: NetName=INPUT1 Pin=dfdfd-1
+Removed Pin From Net: NetName=NetBC2_3 Pin=dfdfd-2
+Removed Pin From Net: NetName=INPUT2 Pin=dsdd-1
+Removed Pin From Net: NetName=NetBC3_3 Pin=dsdd-2
+Removed Pin From Net: NetName=INPUT4 Pin=sadR6-1
+Removed Pin From Net: NetName=NetBC4_3 Pin=sadR6-2
+Removed Pin From Net: NetName=INPUT6 Pin=sdfsv-1
+Removed Pin From Net: NetName=NetBC7_3 Pin=sdfsv-2
+Removed Pin From Net: NetName=INPUT3 Pin=ssR5-1
+Removed Pin From Net: NetName=NetBC1_3 Pin=ssR5-2
+Removed Pin From Net: NetName=INPUT5 Pin=zxcv-1
+Removed Pin From Net: NetName=NetBC6_3 Pin=zxcv-2
+Removed Member From Class: ClassName=Sheet1 Member=asdascR10
+Removed Member From Class: ClassName=Sheet1 Member=asdcs
+Removed Member From Class: ClassName=Sheet1 Member=dfdfd
+Removed Member From Class: ClassName=Sheet1 Member=dsdd
+Removed Member From Class: ClassName=Sheet1 Member=sadR6
+Removed Member From Class: ClassName=Sheet1 Member=sdfsv
+Removed Member From Class: ClassName=Sheet1 Member=ssR5
+Removed Member From Class: ClassName=Sheet1 Member=zxcv
+Added Component: Designator=ccccxc(RES-SMD-1206)
+Added Component: Designator=qweqd(RES-SMD-1206)
+Added Component: Designator=sdasdq(RES-SMD-1206)
+Added Component: Designator=www(RES-SMD-1206)
+Added Component: Designator=xczcxzxc(RES-SMD-1206)
+Added Component: Designator=xzcasdasdq(RES-SMD-1206)
+Added Component: Designator=zczxczasasd(RES-SMD-1206)
+Added Component: Designator=zxczczxc(RES-SMD-1206)
+Added Pin To Net: NetName=NetBC2_3 Pin=ccccxc-1
+Added Pin To Net: NetName=INPUT1 Pin=ccccxc-2
+Added Pin To Net: NetName=NetBC4_3 Pin=qweqd-1
+Added Pin To Net: NetName=INPUT4 Pin=qweqd-2
+Added Pin To Net: NetName=NetBC1_3 Pin=sdasdq-1
+Added Pin To Net: NetName=INPUT3 Pin=sdasdq-2
+Added Pin To Net: NetName=INPUT8 Pin=www-2
+Added Pin To Net: NetName=NetBC6_3 Pin=xczcxzxc-1
+Added Pin To Net: NetName=INPUT5 Pin=xczcxzxc-2
+Added Pin To Net: NetName=INPUT7 Pin=xzcasdasdq-2
+Added Pin To Net: NetName=NetBC7_3 Pin=zczxczasasd-1
+Added Pin To Net: NetName=INPUT6 Pin=zczxczasasd-2
+Added Pin To Net: NetName=NetBC3_3 Pin=zxczczxc-1
+Added Pin To Net: NetName=INPUT2 Pin=zxczczxc-2
+Added Pin To Net: NetName=NetBC5_3 Pin=BC5-3
+Added Pin To Net: NetName=NetBC5_3 Pin=xzcasdasdq-1
+Added Net: Name=NetBC5_3
+Added Pin To Net: NetName=NetBC8_3 Pin=BC8-3
+Added Pin To Net: NetName=NetBC8_3 Pin=www-1
+Added Net: Name=NetBC8_3
+Added Member To Class: ClassName=Sheet1 Member=Component ccccxc Res
+Added Member To Class: ClassName=Sheet1 Member=Component qweqd Res
+Added Member To Class: ClassName=Sheet1 Member=Component sdasdq Res
+Added Member To Class: ClassName=Sheet1 Member=Component www Res
+Added Member To Class: ClassName=Sheet1 Member=Component xczcxzxc Res
+Added Member To Class: ClassName=Sheet1 Member=Component xzcasdasdq Res
+Added Member To Class: ClassName=Sheet1 Member=Component zczxczasasd Res
+Added Member To Class: ClassName=Sheet1 Member=Component zxczczxc Res

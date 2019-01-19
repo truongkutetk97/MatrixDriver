@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=ROW1 Pin=asac-1
+Removed Pin From Net: NetName=ROW2 Pin=asac-2
+Removed Pin From Net: NetName=ROW3 Pin=asac-3
+Removed Pin From Net: NetName=ROW4 Pin=asac-4
+Removed Pin From Net: NetName=ROW1 Pin=asac-5
+Removed Pin From Net: NetName=ROW2 Pin=asac-6
+Removed Pin From Net: NetName=ROW3 Pin=asac-7
+Removed Pin From Net: NetName=ROW4 Pin=asac-8
+Removed Pin From Net: NetName=ROW5 Pin=xczxcxcxzc-1
+Removed Pin From Net: NetName=ROW6 Pin=xczxcxcxzc-2
+Removed Pin From Net: NetName=ROW7 Pin=xczxcxcxzc-3
+Removed Pin From Net: NetName=ROW8 Pin=xczxcxcxzc-4
+Removed Pin From Net: NetName=ROW5 Pin=xczxcxcxzc-5
+Removed Pin From Net: NetName=ROW6 Pin=xczxcxcxzc-6
+Removed Pin From Net: NetName=ROW7 Pin=xczxcxcxzc-7
+Removed Pin From Net: NetName=ROW8 Pin=xczxcxcxzc-8
+Removed Member From Class: ClassName=Sheet1 Member=asac
+Removed Member From Class: ClassName=Sheet1 Member=xczxcxcxzc
+Added Component: Designator=231(JP4)
+Added Component: Designator=312(JP4)
+Added Pin To Net: NetName=ROW4 Pin=231-1
+Added Pin To Net: NetName=ROW3 Pin=231-2
+Added Pin To Net: NetName=ROW2 Pin=231-3
+Added Pin To Net: NetName=ROW1 Pin=231-4
+Added Pin To Net: NetName=ROW8 Pin=312-1
+Added Pin To Net: NetName=ROW7 Pin=312-2
+Added Pin To Net: NetName=ROW6 Pin=312-3
+Added Pin To Net: NetName=ROW5 Pin=312-4
+Added Member To Class: ClassName=Sheet1 Member=Component 231 JP4
+Added Member To Class: ClassName=Sheet1 Member=Component 312 JP4

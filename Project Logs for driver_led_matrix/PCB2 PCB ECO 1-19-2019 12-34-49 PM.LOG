@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=INPUT1 Pin=ccccxc-2
+Removed Pin From Net: NetName=INPUT4 Pin=qweqd-2
+Removed Pin From Net: NetName=INPUT3 Pin=sdasdq-2
+Removed Pin From Net: NetName=INPUT8 Pin=www-2
+Removed Pin From Net: NetName=INPUT5 Pin=xczcxzxc-2
+Removed Pin From Net: NetName=INPUT7 Pin=xzcasdasdq-2
+Removed Pin From Net: NetName=INPUT6 Pin=zczxczasasd-2
+Removed Pin From Net: NetName=INPUT2 Pin=zxczczxc-2
+Added Component: Designator=aczxasda(RES-SMD-1206)
+Added Component: Designator=ccccxc(RES-SMD-1206)
+Added Component: Designator=ccccxc(RES-SMD-1206)
+Added Component: Designator=xxzsa(RES-SMD-1206)
+Added Component: Designator=zq1da(RES-SMD-1206)
+Added Component: Designator=zxcasdac(RES-SMD-1206)
+Added Component: Designator=zxcq1dc(RES-SMD-1206)
+Added Component: Designator=zxqq1(RES-SMD-1206)
+Added Pin To Net: NetName=INPUT5 Pin=aczxasda-2
+Added Pin To Net: NetName=INPUT4 Pin=ccccxc-2
+Added Pin To Net: NetName=INPUT8 Pin=ccccxc-2
+Added Pin To Net: NetName=INPUT1 Pin=xxzsa-2
+Added Pin To Net: NetName=INPUT2 Pin=zq1da-2
+Added Pin To Net: NetName=INPUT6 Pin=zxcasdac-2
+Added Pin To Net: NetName=INPUT7 Pin=zxcq1dc-2
+Added Pin To Net: NetName=INPUT3 Pin=zxqq1-2
+Added Pin To Net: NetName=Netaczxasda_1 Pin=aczxasda-1
+Added Pin To Net: NetName=Netaczxasda_1 Pin=xczcxzxc-2
+Added Net: Name=Netaczxasda_1
+Added Pin To Net: NetName=Netccccxc_1 Pin=ccccxc-1
+Added Pin To Net: NetName=Netccccxc_1 Pin=www-2
+Added Net: Name=Netccccxc_1
+Added Pin To Net: NetName=Netccccxc_2 Pin=ccccxc-2
+Added Pin To Net: NetName=Netccccxc_2 Pin=xxzsa-1
+Added Net: Name=Netccccxc_2
+Added Pin To Net: NetName=Netsdasdq_2 Pin=sdasdq-2
+Added Pin To Net: NetName=Netsdasdq_2 Pin=zxqq1-1
+Added Net: Name=Netsdasdq_2
+Added Pin To Net: NetName=Netxzcasdasdq_2 Pin=xzcasdasdq-2
+Added Pin To Net: NetName=Netxzcasdasdq_2 Pin=zxcq1dc-1
+Added Net: Name=Netxzcasdasdq_2
+Added Pin To Net: NetName=Netzczxczasasd_2 Pin=zczxczasasd-2
+Added Pin To Net: NetName=Netzczxczasasd_2 Pin=zxcasdac-1
+Added Net: Name=Netzczxczasasd_2
+Added Pin To Net: NetName=Netzq1da_1 Pin=zq1da-1
+Added Pin To Net: NetName=Netzq1da_1 Pin=zxczczxc-2
+Added Net: Name=Netzq1da_1
+Added Member To Class: ClassName=Sheet1 Member=Component aczxasda Res
+Added Member To Class: ClassName=Sheet1 Member=Component xxzsa Res
+Added Member To Class: ClassName=Sheet1 Member=Component zq1da Res
+Added Member To Class: ClassName=Sheet1 Member=Component zxcasdac Res
+Added Member To Class: ClassName=Sheet1 Member=Component zxcq1dc Res
+Added Member To Class: ClassName=Sheet1 Member=Component zxqq1 Res

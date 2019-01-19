@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=INPUT1 Pin=ccccxc-2
+Removed Pin From Net: NetName=INPUT4 Pin=qweqd-2
+Removed Pin From Net: NetName=INPUT3 Pin=sdasdq-2
+Removed Pin From Net: NetName=INPUT5 Pin=xczcxzxc-2
+Removed Pin From Net: NetName=INPUT6 Pin=zczxczasasd-2
+Removed Pin From Net: NetName=NetBC5_3 Pin=zxcq1dc-1
+Removed Pin From Net: NetName=INPUT2 Pin=zxczczxc-2
+Removed Member From Class: ClassName=Sheet1 Member=13123132
+Removed Member From Class: ClassName=Sheet1 Member=aczxasda
+Removed Member From Class: ClassName=Sheet1 Member=qweqd
+Removed Member From Class: ClassName=Sheet1 Member=sdasdq
+Removed Member From Class: ClassName=Sheet1 Member=xczcxzxc
+Removed Member From Class: ClassName=Sheet1 Member=xxzsa
+Removed Member From Class: ClassName=Sheet1 Member=zczxczasasd
+Removed Member From Class: ClassName=Sheet1 Member=zq1da
+Removed Member From Class: ClassName=Sheet1 Member=zxcasdac
+Removed Member From Class: ClassName=Sheet1 Member=zxcq1dc
+Removed Member From Class: ClassName=Sheet1 Member=zxczczxc
+Removed Member From Class: ClassName=Sheet1 Member=zxqq1
+Change Component Designator: OldDesignator=aczxasda NewDesignator=ccccxc
+Change Component Designator: OldDesignator=xxzsa NewDesignator=ccccxc
+Change Component Designator: OldDesignator=zq1da NewDesignator=ccccxc
+Change Component Designator: OldDesignator=zxcasdac NewDesignator=ccccxc
+Change Component Designator: OldDesignator=zxqq1 NewDesignator=ccccxc
+Added Pin To Net: NetName=INPUT1 Pin=ccccxc-2
+Added Pin To Net: NetName=INPUT2 Pin=ccccxc-2
+Added Pin To Net: NetName=INPUT3 Pin=ccccxc-2
+Added Pin To Net: NetName=INPUT4 Pin=ccccxc-2
+Added Pin To Net: NetName=INPUT5 Pin=ccccxc-2
+Added Pin To Net: NetName=INPUT6 Pin=ccccxc-2
+Added Pin To Net: NetName=NetBC5_3 Pin=xzcasdasdq-1
+Change Net Name : Old Net Name=Netaczxasda_1 New Net Name=NetBC6_3
+Added Pin To Net: NetName=NetBC8_3 Pin=BC8-3
+Added Pin To Net: NetName=NetBC8_3 Pin=www-1
+Added Net: Name=NetBC8_3
+Added Member To Class: ClassName=Sheet1 Member=Component ccccxc Res

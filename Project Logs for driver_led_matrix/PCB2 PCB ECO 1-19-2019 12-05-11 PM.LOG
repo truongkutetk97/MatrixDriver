@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=ROW1 Pin=C1-1
+Removed Pin From Net: NetName=ROW2 Pin=C1-2
+Removed Pin From Net: NetName=ROW3 Pin=C1-3
+Removed Pin From Net: NetName=ROW4 Pin=C1-4
+Removed Pin From Net: NetName=ROW5 Pin=C1-5
+Removed Pin From Net: NetName=ROW6 Pin=C1-6
+Removed Pin From Net: NetName=ROW7 Pin=C1-7
+Removed Pin From Net: NetName=ROW8 Pin=C1-8
+Removed Pin From Net: NetName=ROW8 Pin=C1-9
+Removed Pin From Net: NetName=ROW7 Pin=C1-10
+Removed Pin From Net: NetName=ROW6 Pin=C1-11
+Removed Pin From Net: NetName=ROW5 Pin=C1-12
+Removed Pin From Net: NetName=ROW4 Pin=C1-13
+Removed Pin From Net: NetName=ROW3 Pin=C1-14
+Removed Pin From Net: NetName=ROW2 Pin=C1-15
+Removed Pin From Net: NetName=ROW1 Pin=C1-16
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Added Component: Designator=asac(JP4x2)
+Added Component: Designator=xczxcxcxzc(JP4x2)
+Added Pin To Net: NetName=ROW1 Pin=asac-1
+Added Pin To Net: NetName=ROW2 Pin=asac-2
+Added Pin To Net: NetName=ROW3 Pin=asac-3
+Added Pin To Net: NetName=ROW4 Pin=asac-4
+Added Pin To Net: NetName=ROW1 Pin=asac-5
+Added Pin To Net: NetName=ROW2 Pin=asac-6
+Added Pin To Net: NetName=ROW3 Pin=asac-7
+Added Pin To Net: NetName=ROW4 Pin=asac-8
+Added Pin To Net: NetName=ROW5 Pin=xczxcxcxzc-1
+Added Pin To Net: NetName=ROW6 Pin=xczxcxcxzc-2
+Added Pin To Net: NetName=ROW7 Pin=xczxcxcxzc-3
+Added Pin To Net: NetName=ROW8 Pin=xczxcxcxzc-4
+Added Pin To Net: NetName=ROW5 Pin=xczxcxcxzc-5
+Added Pin To Net: NetName=ROW6 Pin=xczxcxcxzc-6
+Added Pin To Net: NetName=ROW7 Pin=xczxcxcxzc-7
+Added Pin To Net: NetName=ROW8 Pin=xczxcxcxzc-8
+Added Member To Class: ClassName=Sheet1 Member=Component asac Connector 4x2
+Added Member To Class: ClassName=Sheet1 Member=Component BC7 A1015
+Added Member To Class: ClassName=Sheet1 Member=Component xczxcxcxzc Connector 4x2
